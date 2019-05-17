@@ -4,21 +4,21 @@ This is node.js application using Express.js, Sequelize, mysql, EJS
 ## How to excute this application?
     1. follow this steps
         - intall node modeuls.
-        ````bash
+        
         npm install
-        ````
+        
 
         - create databse with "schedule_manager"
 
         - install sequelize global cli module
-        ````bash
+        
         npm install -g sequelize-cli
-        ````
+        
 
         - migrate database
-        ````bash
+        
         sequelize db:migrate
-        ````
+        
 
 ## UI design global assets..
     1. bootstrap 4 material
